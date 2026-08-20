@@ -1,0 +1,13 @@
+{
+  "name": "fractal-prediction",
+  "version": "1.0.0",
+  "description": "Price fractal scanner for self-similar pattern detection",
+  "main": "fractal-scanner.js",
+  "scripts": {
+    "start": "node fractal-demo.js",
+    "test": "node fractal-demo.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
